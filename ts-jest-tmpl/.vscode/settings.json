@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    //*.ts
+    "[typescript]": {
+        "editor.formatOnSave": true
+    },
+    //*.tsx
+    "[typescriptreact]": {
+        "editor.formatOnSave": true
+    }
+}
